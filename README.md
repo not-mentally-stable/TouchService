@@ -225,3 +225,8 @@ TouchService.NpcsSupported = true
 >Supported, but collision shapes may differ from their visible meshes.
 
 ---
+
+# Misc...
+[![License: ](https://img.shields.io/badge/License%3A-MIT-green?style=plastic)](https://github.com/not-mentally-stable/TouchService/blob/main/LICENSE)
+
+[![Scripting Language: LUAU](https://img.shields.io/badge/Scripting%20Language%3A-LUAU-blue?style=plastic)](https://github.com/luau-lang/luau)
