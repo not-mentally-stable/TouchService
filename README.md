@@ -20,7 +20,7 @@ Tracks player characters touching specific parts and provides events.
   → Same as OnLeft, but fires only once.
   
 ---
-# ⚙️ Management APIs:
+# 🔧 Management APIs:
 
 `TouchService.Disconnect(part, which)`
   → Disconnects event listeners from a part.
@@ -54,7 +54,7 @@ TouchService.NpcsSupported | boolean | false | Enables NPC touch detection (via 
 >( you *can* change settings mid game but not recommended but still will work)
 
 ---
-# Overall TouchService Structure
+# 🔍 Overall TouchService Structure
 
 ```Luau
 TouchService = {
@@ -70,7 +70,7 @@ TouchService = {
 ```
 
 ---
-# 🧱 Example Usage
+# 📝 Example Usage
 
 Basic Touch Detection
 ```Luau
